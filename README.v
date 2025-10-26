@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Ajay Jangam  
 
 - 🌱 Graduated in **Electronics and Communication Engineering (ECE)**  
-- 💡 Passionate about **VLSI design and semiconductor technology**  
+- 💡 Passionate about backend VLSI, RTL to GDSII, and physical design automation
 - 👀 Interested in working as a **VLSI Engineer**  
 - 🛠️ Expertise in **Physical Design flow and concepts**  
 - 📌 Skills: **Floorplanning | Placement | Clock Tree Synthesis (CTS) | Routing | Timing Closure**  

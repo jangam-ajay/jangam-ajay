@@ -11,6 +11,9 @@
 - Jay  
 #################### ⚡ Fun Fact  
 - Physical Design is like **city planning for electrons** – arranging paths for efficient traffic. 
+
+
+
     
 #################### 🔗 Connect with me
                      www.linkedin.com/in/ajayjangam

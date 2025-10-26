@@ -8,18 +8,8 @@
 - ⚙️ Strong understanding of **Power Optimization | Area Efficiency | Signal Integrity**  
 - 🎯 Career Goal: To work as a **VLSI Physical Design Engineer** and contribute to advanced chip design projects  
 
----
-
 ### 😄 Pronouns  
 - Jay  
 
 ### ⚡ Fun Fact  
 - Physical Design is like **city planning for electrons** – arranging paths for efficient traffic.  
-
----
-
-<!---
-jangam-ajay/jangam-ajay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-

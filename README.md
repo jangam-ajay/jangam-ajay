@@ -13,7 +13,6 @@
 - Physical Design is like **city planning for electrons** – arranging paths for efficient traffic. 
 
 🔗 Connect with me  
-
 <p style="margin-left: 20px; margin-top: 5px;">
   <a href="https://www.linkedin.com/in/ajayjangam" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" width="80" height="24" alt="LinkedIn Profile"/>

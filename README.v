@@ -16,7 +16,7 @@
 
     
 #################### 🔗 Connect with me
-                     www.linkedin.com/in/ajayjangam
+                    [![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/ajayjangam)
 
-    
+                                 
 #################### 🔗 Pinned Projects

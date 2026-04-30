@@ -19,7 +19,7 @@
 ## 📌 Pinned Projects
 
 🔹 **ORCA TOP — 32-bit RISC Core Processor**  
-28nm | 435 MHz | Synopsys ICC2 + PrimeTime  
+28nm | 435 MHz | Synopsys ICC2 + StarRc +PrimeTime  
 
 🔹 **CHIP TOP — Multi-Channel Memory Controller**  
 45nm | 200 MHz | Cadence Innovus + Tempus  

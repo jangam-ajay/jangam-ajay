@@ -4,7 +4,7 @@
 🎓 Electronics & Communication Engineer
 
 💡 Passionate about RTL-to-GDSII flow, STA, ECO, and physical design sign-off  
-🚀 Hands-on with Cadence (Genus, Innovus, Tempus) & Synopsys (DC, ICC2, PrimeTime, StarRC)  
+🚀 Hands-on experience with Cadence (Genus, Innovus, Tempus) & Synopsys (DC, ICC2, PrimeTime, StarRC)  
 📚 Working across 28nm, 32nm & 45nm nodes | Learning low-power design & TCL automation  
 
 ---

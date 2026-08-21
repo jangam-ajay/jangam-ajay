@@ -33,7 +33,7 @@ FPGA Implementation | Verilog | Xilinx Vivado
 `Cadence Innovus` `Cadence Genus` `Cadence Tempus`  
 `Synopsys ICC2` `Synopsys PrimeTime` `StarRC` `Design Compiler`  
 `TCL Scripting` `Verilog HDL` `Linux`  
-`DEF` `LEF` `SPEF` `GDSII`
+`DEF` `LEF` `LVS` `STA` `SPEF` `GDSII`
 
 ---
 

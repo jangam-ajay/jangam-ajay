@@ -18,11 +18,14 @@
 
 ## 📌 Pinned Projects
 
-🔹 **ORCA TOP — 32-bit RISC Core Processor**  
+🔹 **ORCA TOP — 28nm**  
 28nm | 435 MHz | Synopsys ICC2 + StarRc +PrimeTime  
 
-🔹 **CHIP TOP — Multi-Channel Memory Controller**  
-45nm | 200 MHz | Cadence Innovus + Tempus  
+🔹 **CHIP TOP — 45nm**  
+45nm | 200 MHz | Cadence Genus + Innovus + Tempus
+
+🔹 **ChipTop — 32nm**  
+32nm | 303 MHz | Synopsys Design Compiler
 
 🔹 **Electronic Voting Machine**  
 FPGA Implementation | Verilog | Xilinx Vivado  
@@ -33,7 +36,7 @@ FPGA Implementation | Verilog | Xilinx Vivado
 `Cadence Innovus` `Cadence Genus` `Cadence Tempus`  
 `Synopsys ICC2` `Synopsys PrimeTime` `StarRC` `Design Compiler`  
 `TCL Scripting` `Verilog HDL` `Linux`  
-`DEF` `LEF` `LVS` `STA` `SPEF` `GDSII`
+`DEF` `LEF` `LVS` `ECO` `STA` `SPEF` `GDSII`
 
 ---
 
